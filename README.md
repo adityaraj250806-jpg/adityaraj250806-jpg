@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aditya+Raj+👋;Full-Stack+Web+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aditya+Raj;Full-Stack+Web+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,7 +30,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj250806-jpg&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj250806-jpg&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj250806-jpg&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=10B981&sideNums=10B981&sideLabels=10B981" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj250806-jpg&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
